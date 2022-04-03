@@ -7,8 +7,8 @@
     "force sub Bot"
   ],
   "success_url": "https://t.me/GreyMatter_bots",
-  "website": "https://github.com/GreyMatter658/force-subscribe-telegram-bot",
-  "repository": "https://github.com/GreyMatter658/force-subscribe-telegram-bot",
+  "website": "https://github.com/akatsukishi49/force-subscribe-telegram-bot",
+  "repository": "https://github.com/Gakatsukishi49/force-subscribe-telegram-bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
